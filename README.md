@@ -1,4 +1,3 @@
-# Recruitment-Funnel-Hiring-Effectiveness-Analysis
 # Recruitment Funnel & Hiring Effectiveness Analysis
 
 An Excel-based HR Analytics project focused on evaluating recruitment effectiveness using 7,167 recruitment records.
